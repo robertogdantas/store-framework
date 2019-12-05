@@ -59,7 +59,9 @@
   },
   "sku-selector" : {
     "props" : {
-      "initialSelection" : "empty"
+      "initialSelection" : "empty",
+      "showVariationsLabels" : true,
+      "showVariationsErrorMessage" : true
     }
   }
 }
