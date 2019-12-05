@@ -29,6 +29,11 @@
     padding: 0;
 }
 
+.infoCardHeadline {
+    color: black;
+    font-weight: bold;
+}
+
 .infoCardContainer--metal {
     background-color: #e1e1e1;
 }
